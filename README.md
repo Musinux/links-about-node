@@ -8,4 +8,6 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Express vs Hapi performance (2017)](https://raygun.com/blog/node-js-performance-2017/)
 - [Node.js Logging Best practices](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
 - [Mistakes made with mongooseJS](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
-- [Node.js at Netflix](https://www.youtube.com/watch?v=p74282nDMX8)
+- [Node.js at Uber](https://youtu.be/ElI5QtUISWM?t=8m20s)
+- [Debugging Node.js in production](https://www.youtube.com/watch?v=CiqzuIUwHl8)
+
