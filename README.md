@@ -9,5 +9,5 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Node.js Logging Best practices](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
 - [Mistakes made with mongooseJS](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
 - [Node.js at Uber](https://youtu.be/ElI5QtUISWM?t=8m20s)
-- [Debugging Node.js in production](https://www.youtube.com/watch?v=CiqzuIUwHl8)
+- --> [Debugging Node.js in production](https://www.youtube.com/watch?v=CiqzuIUwHl8) <--
 
