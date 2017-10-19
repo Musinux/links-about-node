@@ -13,6 +13,7 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Templates literals | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Browser_compatibility)
 - [Express vs Hapi performance (2017)](https://raygun.com/blog/node-js-performance-2017/)
 - [Mistakes made with mongooseJS](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
+- [Writing secure node.js code](https://www.youtube.com/watch?v=QSMbk2nLTBk)
 
 ### Use in production
 - [Node.js Logging Best practices](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
