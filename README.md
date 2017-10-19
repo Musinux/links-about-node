@@ -5,7 +5,8 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Another cheat sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Yet Another cheat sheet](https://www.codementor.io/johnnyb/javascript-cheatsheet-fb54lz08k)
 - [ES6 cheat sheet](https://github.com/DrkSephy/es6-cheatsheet)
-- [StandardJS guidelines to write beautiful code](https://standardjs.com/index.html#the-rules) 
+- [StandardJS guidelines to write beautiful code](https://standardjs.com/index.html#the-rules)
+- [Node Hero: Getting started with Node.js tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) (Really good tutorial to begin with)
 
 ## Node internals
 - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
