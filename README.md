@@ -1,5 +1,10 @@
 # links-about-node
 Just a bunch of links related to Node.js and nodejs internals
+## Learn Javascript basics
+- [Javascript cheat sheet](http://overapi.com/static/cs/jsquick.pdf)
+- [Another cheat sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [Yet Another cheat sheet](https://www.codementor.io/johnnyb/javascript-cheatsheet-fb54lz08k)
+- [ES6 cheat sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 ## Node internals
 - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
@@ -10,10 +15,6 @@ Just a bunch of links related to Node.js and nodejs internals
 - [An Update on ES6 Modules in Node.js](https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c)
 
 ## Advanced uses
-- [Javascript cheat sheet](http://overapi.com/static/cs/jsquick.pdf)
-- [Another cheat sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [Yet Another cheat sheet](https://www.codementor.io/johnnyb/javascript-cheatsheet-fb54lz08k)
-- [ES6 cheat sheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [Templates literals | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Browser_compatibility)
 - [Express vs Hapi performance (2017)](https://raygun.com/blog/node-js-performance-2017/)
 - [Mistakes made with mongooseJS](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
