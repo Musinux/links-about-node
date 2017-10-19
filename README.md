@@ -27,7 +27,8 @@ Just a bunch of links related to Node.js and nodejs internals
 
 ### Use in production
 - [Node.js Logging Best practices](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
-- --> [Debugging Node.js in production](https://www.youtube.com/watch?v=CiqzuIUwHl8) <--
+- [Debugging Node.js in production](https://www.youtube.com/watch?v=CiqzuIUwHl8) advanced debugging techniques
+- [Node.js at scale](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/) tutorial about using Node in production (dockerisation, scalability...)
 
 ## Talks from companies
 - [Node.js at Uber](https://youtu.be/ElI5QtUISWM?t=8m20s)
