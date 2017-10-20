@@ -21,6 +21,9 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Express vs Hapi performance (2017)](https://raygun.com/blog/node-js-performance-2017/)
 - [Mistakes made with mongooseJS](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
 
+## Development
+- [Tools for development debugging](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
+
 ## Security related stuff
 - [Analyzing your repo for known-vulnerable dependencies](https://snyk.io/vuln)
 - [Writing secure node.js code](https://www.youtube.com/watch?v=QSMbk2nLTBk)
