@@ -22,7 +22,8 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Mistakes made with mongooseJS](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
 
 ## Development
-- [Tools for development debugging](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
+- [Node.js Tools for development debugging](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
+- [Debug Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
 
 ## Security related stuff
 - [Analyzing your repo for known-vulnerable dependencies](https://snyk.io/vuln)
