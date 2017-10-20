@@ -18,6 +18,7 @@ Just a bunch of links related to Node.js and nodejs internals
 
 ## Advanced uses
 - [Templates literals | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Browser_compatibility)
+- [Async functions](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
 - [Express vs Hapi performance (2017)](https://raygun.com/blog/node-js-performance-2017/)
 - [Mistakes made with mongooseJS](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
 
