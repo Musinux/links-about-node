@@ -30,6 +30,7 @@ Just a bunch of links related to Node.js and nodejs internals
 ## Security related stuff
 - [Analyzing your repo for known-vulnerable dependencies](https://snyk.io/vuln)
 - [Writing secure node.js code](https://www.youtube.com/watch?v=QSMbk2nLTBk)
+- [npm & dependencies security management](https://www.youtube.com/watch?v=2_aclLr3o5s)
 
 ### Use in production
 - [Node.js Logging Best practices](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
