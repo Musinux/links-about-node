@@ -13,6 +13,7 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Libuv: the underlying lib of Node.js](https://www.youtube.com/watch?v=nGn60vDSxQ4&t=29s)
 - [Deep dive into libuv](https://www.youtube.com/watch?v=sGTRmPiXD4Y)
 - [Everything you need to know about node.js event loop](https://www.youtube.com/watch?v=PNa9OMajw9w)
+- [More on the node.js event loop](https://www.youtube.com/watch?v=P9csgxBgaZ8)
 - [Node.js, TC-39, and Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
 - [An Update on ES6 Modules in Node.js](https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c)
 - [Transform all node.js utilities to promises, with the agreement of Node.js core team](http://2ality.com/2017/05/util-promisify.html)
