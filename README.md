@@ -29,6 +29,7 @@ Just a bunch of links related to Node.js and nodejs internals
 ## Development
 - [Node.js Tools for development debugging (blog post)](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
 - [Debug Node.js with Google Chrome (blog post)](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
+- [New DevTools features to debug Node.js (youtube conference)](https://www.youtube.com/watch?v=dbCcVzt9C1c)
 
 ## Security related stuff
 - [Analyzing your repo for known-vulnerable dependencies (website)](https://snyk.io/vuln)
