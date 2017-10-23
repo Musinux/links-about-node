@@ -25,13 +25,14 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Async functions (blog post)](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
 - [Express vs Hapi performance (2017) (blog post)](https://raygun.com/blog/node-js-performance-2017/)
 - [Mistakes made with mongooseJS (blog post)](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
+- [Programming Best Practices: Memory Efficiency with Closures (yt conf)](https://www.youtube.com/watch?v=u17ejrZlDLY)
 
 ## Development
 - [Node.js Tools for development debugging (blog post)](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
 - [Debug Node.js with Google Chrome (blog post)](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
 - [New DevTools features to debug Node.js (youtube conference)](https://www.youtube.com/watch?v=dbCcVzt9C1c)
 
-## Security related stuff
+## Security
 - [Analyzing your repo for known-vulnerable dependencies (website)](https://snyk.io/vuln)
 - [Writing secure node.js code (youtube conference)](https://www.youtube.com/watch?v=QSMbk2nLTBk)
 - [npm & dependencies security management (youtube conference)](https://www.youtube.com/watch?v=2_aclLr3o5s)
