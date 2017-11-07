@@ -26,6 +26,7 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Express vs Hapi performance (2017) (blog post)](https://raygun.com/blog/node-js-performance-2017/)
 - [Mistakes made with mongooseJS (blog post)](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
 - [Programming Best Practices: Memory Efficiency with Closures (yt conf)](https://www.youtube.com/watch?v=u17ejrZlDLY)
+- [this operator examples](https://gist.github.com/Musinux/6ad9132491f5a939416865e8b910c97b)
 
 ## Development
 - [Node.js Tools for development debugging (blog post)](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
