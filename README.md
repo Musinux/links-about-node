@@ -27,6 +27,10 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Mistakes made with mongooseJS (blog post)](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
 - [Programming Best Practices: Memory Efficiency with Closures (yt conf)](https://www.youtube.com/watch?v=u17ejrZlDLY)
 - [this operator examples](https://gist.github.com/Musinux/6ad9132491f5a939416865e8b910c97b)
+
+## Unit testing
+- [A useful guide about testing](https://fr.scribd.com/document/69769/TheWayOfTestivus)
+- [The short version of this useful guide](https://testing.googleblog.com/2010/07/code-coverage-goal-80-and-no-less.html)
 - [Unit testing Guide for Mongoose](https://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide/)
 
 ## Development
