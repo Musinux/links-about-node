@@ -10,6 +10,7 @@ Just a bunch of links related to Node.js and nodejs internals
 
 ## Node internals
 - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code (blog article)](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+- [Just-in-time compilation explained (MDN)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - [Libuv: the underlying lib of Node.js (youtube conference)](https://www.youtube.com/watch?v=nGn60vDSxQ4&t=29s)
 - [Deep dive into libuv (youtube conference)](https://www.youtube.com/watch?v=sGTRmPiXD4Y)
 - [Everything you need to know about node.js event loop (youtube conference)](https://www.youtube.com/watch?v=PNa9OMajw9w)
