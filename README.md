@@ -35,19 +35,24 @@ Just a bunch of links related to Node.js and nodejs internals
 - [The short version of this useful guide](https://testing.googleblog.com/2010/07/code-coverage-goal-80-and-no-less.html)
 - [Unit testing Guide for Mongoose](https://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide/)
 
-## Development
+## Debugging
 - [Node.js Tools for development debugging (blog post)](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
 - [Debug Node.js with Google Chrome (blog post)](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
 - [New DevTools features to debug Node.js (youtube conference)](https://www.youtube.com/watch?v=dbCcVzt9C1c)
+
+## Advanced Debugging
+- [Debugging Node.js applications using core dumps](https://www.reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
+- [Debugging Node.js in production (youtube conference)](https://www.youtube.com/watch?v=CiqzuIUwHl8) advanced debugging techniques
 
 ## Security
 - [Analyzing your repo for known-vulnerable dependencies (website)](https://snyk.io/vuln)
 - [Writing secure node.js code (youtube conference)](https://www.youtube.com/watch?v=QSMbk2nLTBk)
 - [npm & dependencies security management (youtube conference)](https://www.youtube.com/watch?v=2_aclLr3o5s)
 
-### Use in production
+
+
+## Use in production
 - [Node.js Logging Best practices (blog post)](https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/)
-- [Debugging Node.js in production (youtube conference)](https://www.youtube.com/watch?v=CiqzuIUwHl8) advanced debugging techniques
 - [Node.js at scale (blog post)](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/) tutorial about using Node in production (dockerisation, scalability...)
 
 ## Talks from companies
