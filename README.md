@@ -3,7 +3,6 @@ Just a bunch of links related to Node.js and nodejs internals
 ## Learn Javascript basics
 - [Javascript cheat sheet (pdf)](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Another cheat sheet (github repo)](http://overapi.com/static/cs/jsquick.pdf)
-
 - [Yet Another cheat sheet (web page)](https://www.codementor.io/johnnyb/javascript-cheatsheet-fb54lz08k)
 - [ES6 cheat sheet (github repo)](https://github.com/DrkSephy/es6-cheatsheet)
 - [StandardJS guidelines to write beautiful code (web page)](https://standardjs.com/index.html#the-rules)
