@@ -40,6 +40,8 @@ Just a bunch of links related to Node.js and nodejs internals
 - [New DevTools features to debug Node.js (youtube conference)](https://www.youtube.com/watch?v=dbCcVzt9C1c)
 
 ## Advanced Debugging
+- [MDB to debug core dumps](https://www.joyent.com/node-js/production/debug/mdb)
+- [MDB_v8 to debug Node.js core dumps](https://github.com/joyent/mdb_v8/tree/master)
 - [Debugging Node.js applications using core dumps](https://www.reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
 - [Debugging Node.js in production (youtube conference)](https://www.youtube.com/watch?v=CiqzuIUwHl8) advanced debugging techniques
 
