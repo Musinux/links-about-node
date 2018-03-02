@@ -39,7 +39,8 @@ Just a bunch of links related to Node.js and nodejs internals
 - [Debug Node.js with Google Chrome (blog post)](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
 - [New DevTools features to debug Node.js (youtube conference)](https://www.youtube.com/watch?v=dbCcVzt9C1c)
 
-## Advanced Debugging
+## Hardcore Debugging
+The type of debugging you don't do for fun
 - [MDB to debug core dumps](https://www.joyent.com/node-js/production/debug/mdb)
 - [MDB_v8 to debug Node.js core dumps](https://github.com/joyent/mdb_v8/tree/master)
 - [Debugging Node.js applications using core dumps](https://www.reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
