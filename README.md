@@ -64,4 +64,5 @@ The type of debugging you don't do for fun
 
 ## Talks from companies
 - [Node.js at Uber (youtube conference)](https://youtu.be/ElI5QtUISWM?t=8m20s)
+- [Designing (architecturally speaking) very large applications (Google) (text article + video)](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 
