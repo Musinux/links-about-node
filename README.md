@@ -55,7 +55,7 @@ The type of debugging you don't do for fun
 - [Analyzing your repo for known-vulnerable dependencies (website)](https://snyk.io/vuln)
 - [Writing secure node.js code (youtube conference)](https://www.youtube.com/watch?v=QSMbk2nLTBk)
 - [npm & dependencies security management (youtube conference)](https://www.youtube.com/watch?v=2_aclLr3o5s)
-
+- [Somebody Tried to Hide a Backdoor in a Popular JavaScript npm Package](https://www.bleepingcomputer.com/news/security/somebody-tried-to-hide-a-backdoor-in-a-popular-javascript-npm-package/)
 
 
 ## Use in production
