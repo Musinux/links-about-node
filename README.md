@@ -56,7 +56,8 @@ The type of debugging you don't do for fun
 - [Writing secure node.js code (youtube conference)](https://www.youtube.com/watch?v=QSMbk2nLTBk)
 - [npm & dependencies security management (youtube conference)](https://www.youtube.com/watch?v=2_aclLr3o5s)
 - [Somebody Tried to Hide a Backdoor in a Popular JavaScript npm Package](https://www.bleepingcomputer.com/news/security/somebody-tried-to-hide-a-backdoor-in-a-popular-javascript-npm-package/)
-- [Cross-Site Request Forgery mitigations](https://github.com/pillarjs/understanding-csrf)
+- [Cross-Site Request Forgery mitigations (github)](https://github.com/pillarjs/understanding-csrf)
+- [Eval no more: a journey through NodeJS' VM module, VM2 and Expression Language (blog post)](https://odino.org/eval-no-more-understanding-vm-vm2-nodejs/)
 
 
 ## Use in production
