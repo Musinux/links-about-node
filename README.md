@@ -1,5 +1,7 @@
 # links-about-node
 Just a bunch of links related to Node.js and nodejs internals
+
+Also checkout videos on [links-about-web-programming](https://github.com/Musinux/links-about-web-programming#web-security)
 ## Preamble
 
 
