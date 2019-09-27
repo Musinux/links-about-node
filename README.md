@@ -18,6 +18,7 @@ Also checkout videos on [links-about-web-programming](https://github.com/Musinux
 
 ## Node internals
 - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code (blog article)](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+- [A sneak peek into super optimized code in JS frameworks (yt conf)](https://www.youtube.com/watch?v=_VHNTC67NR8)
 - [Just-in-time compilation explained (MDN)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - [Libuv: the underlying lib of Node.js (youtube conference)](https://www.youtube.com/watch?v=nGn60vDSxQ4&t=29s)
 - [Deep dive into libuv (youtube conference)](https://www.youtube.com/watch?v=sGTRmPiXD4Y)
