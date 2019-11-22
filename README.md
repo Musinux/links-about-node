@@ -7,7 +7,9 @@ Also checkout videos on [links-about-web-programming](https://github.com/Musinux
 
 > You should be unhappy with code you wrote a year ago. If you aren't, that means either A) you haven't learned anything in a year, B) your code can't be improved, or C) you never revisit old code. All of these are the kiss of death for software developers. 
 >                   -- from [Coding Horror](https://blog.codinghorror.com/sucking-less-every-year)
-[https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/)
+
+
+[Why I'm The Best Programmer In The World](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/)
 
 ## Learn Javascript basics
 - [Javascript cheat sheet (pdf)](https://github.com/mbeaudru/modern-js-cheatsheet)
