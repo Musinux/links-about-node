@@ -36,6 +36,7 @@ Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't
 
 
 ## Advanced uses
+- [Why Learn Functional Programming in JavaScript? (blog post)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
 - [Templates literals | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Browser_compatibility)
 - [Async functions (blog post)](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
 - [Express vs Hapi performance (2017) (blog post)](https://raygun.com/blog/node-js-performance-2017/)
