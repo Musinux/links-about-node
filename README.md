@@ -48,6 +48,7 @@ Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't
 - [Mistakes made with mongooseJS (blog post)](https://www.mongodb.com/blog/post/the-mean-stack-mistakes-youre-probably-making)
 - [Programming Best Practices: Memory Efficiency with Closures (yt conf)](https://www.youtube.com/watch?v=u17ejrZlDLY)
 - [this operator examples](https://gist.github.com/Musinux/6ad9132491f5a939416865e8b910c97b)
+- [arrow functions in react classes](https://medium.com/@joespinelli_6190/using-arrow-functions-to-avoid-binding-this-in-react-5d7402eec64)
 
 ## Unit testing
 - [A useful guide about testing](https://fr.scribd.com/document/69769/TheWayOfTestivus)
