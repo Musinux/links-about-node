@@ -33,6 +33,7 @@ Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't
 - [More on the node.js event loop (youtube conference)](https://www.youtube.com/watch?v=P9csgxBgaZ8)
 - [Node.js guide about the event loop (blog post)](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 - [What is shared between threads, and what's not (stack exchange question)](https://cs.stackexchange.com/questions/48345/what-threads-share-in-general)
+- [Why Threads Are a Bad Idea For Most Uses (pdf)](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf)
 - [Myths Programmers Believe about CPU Caches (blog post)](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 - [Node.js, TC-39, and Modules (blog post)](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
 - [An Update on ES6 Modules in Node.js (blog post)](https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c)
