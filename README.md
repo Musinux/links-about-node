@@ -23,7 +23,7 @@ Also checkout videos on [links-about-web-programming](https://github.com/Musinux
 ## Node internals
 Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't](https://www.cs.dartmouth.edu/~sergey/hacker-methodology.pdf), specifically the section 2 if you "don't have time to read it all"
 
-
+- [Which programming language is fastest? (benchmarks)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
 - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code (blog article)](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 - [A sneak peek into super optimized code in JS frameworks (yt conf)](https://www.youtube.com/watch?v=_VHNTC67NR8)
 - [Just-in-time compilation explained (MDN)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
