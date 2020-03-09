@@ -39,7 +39,7 @@ Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't
 - [An Update on ES6 Modules in Node.js (blog post)](https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c)
 - [Transform all node.js utilities to promises, with the agreement of Node.js core team (blog post)](http://2ality.com/2017/05/util-promisify.html)
 - [Type coertion in Javascript (blog post)](https://2ality.com/2019/10/type-coercion.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+2ality+%282ality+%E2%80%93+JavaScript+and+more%29)
-
+- [REST vs. GraphQL: Critical Look (yt video)](https://www.youtube.com/watch?v=yLf0rIaRtRc)
 
 ## Advanced uses
 - [Why Learn Functional Programming in JavaScript? (blog post)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
