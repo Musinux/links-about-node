@@ -51,6 +51,9 @@ Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't
 - [this operator examples](https://gist.github.com/Musinux/6ad9132491f5a939416865e8b910c97b)
 - [arrow functions in react classes](https://medium.com/@joespinelli_6190/using-arrow-functions-to-avoid-binding-this-in-react-5d7402eec64)
 
+## Others
+- [The history of the URL (blog post)](https://blog.cloudflare.com/the-history-of-the-url/)
+
 ## Unit testing
 - [A useful guide about testing](https://fr.scribd.com/document/69769/TheWayOfTestivus)
 - [The short version of this useful guide](https://testing.googleblog.com/2010/07/code-coverage-goal-80-and-no-less.html)
