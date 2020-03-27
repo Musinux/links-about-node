@@ -58,6 +58,7 @@ Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't
 - [A useful guide about testing](https://fr.scribd.com/document/69769/TheWayOfTestivus)
 - [The short version of this useful guide](https://testing.googleblog.com/2010/07/code-coverage-goal-80-and-no-less.html)
 - [Unit testing Guide for Mongoose](https://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide/)
+- [Mocking is a code smell (blog)](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
 ## Debugging
 - [Node.js Tools for development debugging (blog post)](https://www.nearform.com/blog/node-js-develop-debugging-techniques/)
