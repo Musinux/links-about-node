@@ -55,6 +55,7 @@ Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't
 
 ## Others
 - [The history of the URL (blog post)](https://blog.cloudflare.com/the-history-of-the-url/)
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## Unit testing
 - [A useful guide about testing](https://fr.scribd.com/document/69769/TheWayOfTestivus)
