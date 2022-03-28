@@ -23,6 +23,7 @@ Also checkout videos on [links-about-web-programming](https://github.com/Musinux
 ## Node internals
 Maybe, you should begin by reading [What Hackers Learn That the Rest of Us Don't](https://www.cs.dartmouth.edu/~sergey/hacker-methodology.pdf), specifically the section 2 if you "don't have time to read it all"
 
+- [Broken Promises: how promises can be misused (yt video)](https://www.youtube.com/watch?v=XV-u_Ow47s0)
 - [Which programming language is fastest? (benchmarks)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
 - [Is JavaScript interpreted by design? (StackExchange thread)](https://softwareengineering.stackexchange.com/questions/138521/is-javascript-interpreted-by-design)
 - [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code (blog article)](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
